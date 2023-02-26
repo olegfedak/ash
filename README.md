@@ -4,7 +4,7 @@ The theme works in zsh using oh-my-zsh. Optimised breaking the prompt lines and 
 
 <div align="center">
    <br>
-   <img src="./ash-cover.png" alt="Ash — Terminal Prompts Theme" width="740" />
+   <img src="./ash-cover.png" alt="Ash — Terminal Prompts Theme" />
    <br>
    <p><i>Color theme on the screenshot is from <a href="">Graymium</a></i></p>
    <br>
@@ -13,28 +13,32 @@ The theme works in zsh using oh-my-zsh. Optimised breaking the prompt lines and 
 
 ## Installation
 
-### **zsh**
+### zsh
 
 Be sure to have [Oh My Zsh](https://ohmyz.sh) installed.
 
-#### 1. Download theme:
+##### 1. Download theme:
 
     git clone --quiet https://github.com/olegfedak/ash-terminal-theme ~/.oh-my-zsh/custom/themes/ash
 
 
-#### 2. Select theme:
+##### 2. Select theme:
 
     omz theme set ash/ash
 
 
-#### 3. Reload current zsh session: 
+##### 3. Reload current zsh session: 
 
     omz reload
 
 
-### **fish, bash**
+### fish, bash
 
 Since I am using Zsh, I haven’t considered this theme for Fish and Bash. Anyway the question is open and you are welcome being a contributor.
+
+## Author
+
+[Oleg Fedak](https://github.com/olegfedak)
 
 ## License
 
