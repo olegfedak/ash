@@ -6,7 +6,7 @@ The theme works in zsh using oh-my-zsh. Optimised breaking the prompt lines and 
    <br>
    <img src="./ash-cover.png" alt="Ash — Terminal Prompts Theme" />
    <br>
-   <p><i>Color theme on the screenshot is from <a href="">Graymium</a></i></p>
+   <p><i>Color theme on the screenshot is from <a href="https://github.com/olegfedak/graymium">Graymium</a></i></p>
    <br>
 </div>
 
